@@ -6,10 +6,11 @@
                  **-English: C1**
                  **-Galician: Celga4**
                  **-Portuguese: Low_Level**
-  -📓 Studies: **Formacion Profesional Superior : Desarrollo de Aplicaciones Multiplataforma**
+
+-📓 Studies: **Formacion Profesional Superior : Desarrollo de Aplicaciones Multiplataforma**
                 **Grado en Ingeniería Informática: Uvigo,ESEI**
   
-                                         **PROGRAMMING_SKILLS**
+                                        **PROGRAMMING_SKILLS**
   
   -💻General_Programming-Languages: Java:High_level
                                   Phython:Medium_level
