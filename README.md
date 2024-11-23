@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seergito
 - 👀 I’m interested in Full Stack Developing, Phyolosphy, Languages and History
 - 🌱 I’m currently learning Computer Enginieering
-- 📫 How to reach me: sergiitox09@gmail.com
+- 📫 How to reach me: srmartinez23@esei.uvigo.es
 - 🚩 Languages: **Spanish: Native;**
                  **-English: C1**
                  **-Galician: Celga4**
