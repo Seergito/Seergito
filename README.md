@@ -2,6 +2,7 @@
 - 👀 I’m interested in Full Stack Developing, Phyolosphy, Languages and History
 - 🌱 I’m currently learning Computer Enginieering
 - 📫 How to reach me: srmartinez23@esei.uvigo.es
+- 🦄 Unicorn Developer and Thinker
 - 🚩 Languages: **Spanish: Native;**
                  **-English: C1**
                  **-Galician: Celga4**
