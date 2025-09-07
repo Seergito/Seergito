@@ -13,22 +13,22 @@
   
                                         **PROGRAMMING_SKILLS**
   
-  -💻General_Programming-Languages: Java:High_level
-                                  Phython:Medium_level
-                                  C#:High_level
-                                  C++:Low_level
-                                  C:Low_level
+  -💻General_Programming-Languages: Java
+                                  Phython
+                                  C#
+                                  C++
+                                  C
 
-  -🎨Web_Programming-Languages: PHP:Hig_level
-                                      CSS:Medium_level
-                                      JS:Medium_level
-                                      Bootstrap:Low_level
+  -🎨Web_Programming-Languages: PHP
+                                      CSS
+                                      JS
+                                      Bootstrap
 
-  -💡Assembler_Programming-Languages: MS-DOS:Medium_level
-                                      ARMv7:High_level
+  -💡Assembler_Programming-Languages: MS-DOS
+                                      ARMv7
 
-   -⌛Other-Languages: XML:High_level
-                    JSON:High_level
-                    SQL:High_level
-                    R:Low_level
+   -⌛Other-Languages: XML
+                    JSON
+                    SQL
+                    R
 
